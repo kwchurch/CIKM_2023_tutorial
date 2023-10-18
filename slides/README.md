@@ -7,6 +7,7 @@
 <li><a href="CIKM_Medium.pptx">Medium</a></li>
 <li><a href="CIKM_Ugly.pptx">Ugly</a></li>
 <li><a href="CIKM_Applications.pptx">Applications</a></li>
+<li><a href="CIKM_Conclusions.pptx">Conclusions</a></li>
 </ol>
 
 On Deck (not included)
