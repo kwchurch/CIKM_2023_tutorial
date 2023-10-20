@@ -1,36 +1,36 @@
 Outline for the story:
 
-Intro (10 min) (Omar)
+Intro (10 min) (Omar) 12 slides
  - High level overview of information access (search, QA, etc.)
  - What are the components that we need
  - IR stack (indexing, crawling, ranking, query understanding)
  - NLP stack (POS, NER, specific tasks, embeddings, transformers, etc.)
  - HEMU dimensions
 
-Hard (10 min)
+Hard (10 min) 7 slides
  - NLP: pre-training (Ken)
  - IR: large-scale indexing, crawling, instrumentation, online experiments (Omar)
  - 1 slide on hard problems for researchers/practitioners
 
-Easy (60 min)
+Easy (60 min) 63 slides
  - NLP: inference/fit, fine-tuning/predict (Ken)
  - IR: indexing, query, ranking (tf-idf, out-the-box BM25, etc.) (Omar)
  - 1 slide on hard problems for researchers/practitioners
 
 --- Break ---
 
-Medium/Not-so-hard (30 min)
+Medium/Not-so-hard (40 min)  46 slides
  - Historical perspective (Ken)
  - KG (Omar)
  - 1 slide on hard problems for researchers/practitioners
 
-Ugly (30 min)
+Ugly & Applications (50 min) 85 slides
  - Benchmarks (Ken)
  - Labeling (Omar)
  - Bias, toxicity, misinformation, plagiarism (Ken)
  - 1 slide on hard problems for researchers/practitioners
 
-The application (20 min)
+The application (0 min) 5 slides
  - How can we solve a specific problem using a "better together" approach
  - Hallucination problem
  - Details on how search and KG can help
