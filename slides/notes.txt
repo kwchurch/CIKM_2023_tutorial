@@ -7,7 +7,7 @@ Intro (10 min) (Omar)
  - NLP stack (POS, NER, specific tasks, embeddings, transformers, etc.)
  - HEMU dimensions
 
-Hard (20 min)
+Hard (10 min)
  - NLP: pre-training (Ken)
  - IR: large-scale indexing, crawling, instrumentation, online experiments (Omar)
  - 1 slide on hard problems for researchers/practitioners
