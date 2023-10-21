@@ -2,8 +2,8 @@
 
 <ol>
 <li>Introduction
-<a href="CIKM_Intro.pptx">ppt</a>
-<a href="CIKM_Intro.pdf">pdf</a>
+<a href="CIKM_Introduction.pptx">ppt</a>
+<a href="CIKM_Introduction.pdf">pdf</a>
 </li>
 <li>Hard
 <a href="CIKM_Hard.pptx">ppt</a>

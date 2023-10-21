@@ -6,8 +6,8 @@ Omar Alonso and <a href="https://kwchurch.github.io/">Kenneth Church</a>
 
 <ol>
 <li>Introduction
-<a href="slides/CIKM_Intro.pptx">ppt</a>
-<a href="slides/CIKM_Intro.pdf">pdf</a>
+<a href="slides/CIKM_Introduction.pptx">ppt</a>
+<a href="slides/CIKM_Introduction.pdf">pdf</a>
 </li>
 <li>Hard
 <a href="slides/CIKM_Hard.pptx">ppt</a>
