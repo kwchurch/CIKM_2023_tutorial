@@ -1,17 +1,29 @@
 # Outline
 
 <ol>
-<li><a href="CIKM_Intro.pptx">Introduction</a></li>
-<li><a href="CIKM_Hard.pptx">Hard</a></li>
-<li><a href="CIKM_Easy.pptx">Easy</a></li>
-<li><a href="CIKM_Medium.pptx">Medium</a></li>
-<li><a href="CIKM_Ugly.pptx">Ugly</a></li>
-<li><a href="CIKM_Conclusions.pptx">Conclusions</a></li>
+<li>Introduction
+<a href="CIKM_Intro.pptx">ppt</a>
+<a href="CIKM_Intro.pdf">pdf</a>
+</li>
+<li>Hard
+<a href="CIKM_Hard.pptx">ppt</a>
+<a href="CIKM_Hard.pdf">pdf</a>
+</li>
+<li>Easy
+<a href="CIKM_Easy.pptx">ppt</a>
+<a href="CIKM_Easy.pdf">pdf</a>
+</li>
+<li>Medium
+<a href="CIKM_Medium.pptx">ppt</a>
+<a href="CIKM_Medium.pdf">pdf</a>
+</li>Ugly
+<a href="CIKM_Ugly.pptx">ppt</a>
+<a href="CIKM_Ugly.pdf">pdf</a>
+</li>
+<li>
+Conclusions
+<a href="CIKM_Conclusions.pptx">ppt</a>
+<a href="CIKM_Conclusions.pdf">pdf</a>
+</li>
 </ol>
 
-On Deck (not included)
-
-<ol>
-<li><a href="on_deck/CIKM_little_language.pptx">Little Languages</a></li>
-<li><a href="on_deck/cikm-tutorial-oa.pptx">Omar's slides</a></li>
-</ol>
