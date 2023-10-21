@@ -17,7 +17,8 @@
 <li>Medium (40 minutes)
 <a href="CIKM_Medium.pptx">ppt</a>
 <a href="CIKM_Medium.pdf">pdf</a>
-</li>Ugly & Applications (50 minutes)
+</li>
+<li>Ugly & Applications (50 minutes)
 <a href="CIKM_Ugly.pptx">ppt</a>
 <a href="CIKM_Ugly.pdf">pdf</a>
 </li>

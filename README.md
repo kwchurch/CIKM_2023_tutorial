@@ -21,7 +21,8 @@ Omar Alonso and <a href="https://kwchurch.github.io/">Kenneth Church</a>
 <li>Medium (40 minutes)
 <a href="slides/CIKM_Medium.pptx">ppt</a>
 <a href="slides/CIKM_Medium.pdf">pdf</a>
-</li>Ugly & Applications (50 minutes)
+</li>
+<li>Ugly & Applications (50 minutes)
 <a href="slides/CIKM_Ugly.pptx">ppt</a>
 <a href="slides/CIKM_Ugly.pdf">pdf</a>
 </li>
