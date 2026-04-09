@@ -1,6 +1,6 @@
 # CIKM_2023_tutorial
 
-Omar Alonso and <a href="https://kwchurch.github.io/">Kenneth Church</a>
+<a href="https://oalonso.github.io/">Omar Alonso</a> and <a href="https://kwchurch.github.io/">Kenneth Church</a>
 
 <p>
 
